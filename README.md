@@ -92,39 +92,7 @@ Goal:
 
 ---
 
-# 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neelkore25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neelkore25&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelkore25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelkore25&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 🌍 Connect With Me
 
@@ -146,7 +114,6 @@ Goal:
 
 ## ⚡ Visitor Counter
 
-<img src="https://komarev.com/ghpvc/?username=neelkore25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 ### "Code. Learn. Build. Repeat."
 
