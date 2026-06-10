@@ -1,44 +1,35 @@
 <div align="center">
 
-# ⚡ NEEL KORE ⚡
+# 👨‍💻 Neel Kore
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer+In+Progress;MERN+Stack+Developer;Cybersecurity+Explorer;Networking+Enthusiast;Building+The+Future+One+Commit+At+A+Time" />
+### MERN Stack Developer • Software Engineering Student • Cybersecurity Explorer
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Experiences;MERN+Stack+Developer;Cybersecurity+%26+Networking+Enthusiast;Always+Learning+Always+Building;Future+Software+Engineer" />
 
 </div>
 
 ---
 
-# 🌌 About Me
+## 🚀 About Me
 
+🎓 Third-Year Undergraduate Student from India
 
+💡 Passionate about developing modern web applications and creating meaningful digital experiences.
 
-```yaml
-Name: Neel Kore
-Location: India 🇮🇳
-Education: Third-Year Undergraduate
-Focus:
-  - Full Stack Development
-  - MERN Stack
-  - Cybersecurity
-  - Networking
-Goal:
-  - Become an Elite Software Engineer
-```
+🌱 Currently focused on the MERN Stack while expanding my knowledge in Software Engineering, Networking, and Cybersecurity.
 
-🔥 Passionate about building scalable web applications
+✨ Areas of Interest
 
-🔐 Exploring cybersecurity and digital defense
-
-🌐 Learning modern technologies every day
-
-🚀 Turning ideas into impactful software
-
-💡 Believer in continuous growth and innovation
+* Full Stack Web Development
+* Software Engineering
+* React Ecosystem
+* Networking Fundamentals
+* Cybersecurity Concepts
+* Open Source Technologies
 
 ---
 
-# ⚔️ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -46,63 +37,88 @@ Goal:
 
 </div>
 
+<br>
+
+<div align="center">
+
+| Frontend                          | Backend              | Database | Languages |
+| --------------------------------- | -------------------- | -------- | --------- |
+| HTML5 • CSS3 • JavaScript • React | Node.js • Express.js | MongoDB  | C • C++   |
+
+</div>
+
 ---
 
-# 🚀 Current Mission
+## 🎯 Currently Working On
 
-```diff
-+ Building Full Stack Applications
-+ Improving DSA & Problem Solving
-+ Learning Advanced React
-+ Exploring Cybersecurity
-+ Strengthening Networking Knowledge
+🟢 Building Full-Stack MERN Applications
+
+🟢 Improving DSA & Problem Solving Skills
+
+🟢 Learning Advanced React Patterns
+
+🟢 Exploring Cybersecurity Fundamentals
+
+🟢 Strengthening Networking Concepts
+
+---
+
+## 💼 Internship Experience
+
+### 🏢 Nuclear Power Corporation of India Limited (NPCIL)
+
+During my internship, I worked on a research-based study involving:
+
+🔹 Data Backup Strategies
+
+🔹 Disaster Recovery Management
+
+🔹 Cybersecurity Fundamentals
+
+🔹 Enterprise Infrastructure Awareness
+
+📜 Successfully completed the internship and earned a completion certificate.
+
+---
+
+## 🌟 Featured Project
+
+<div align="center">
+
+### Personal Portfolio Website
+
+🔗 **https://neelkore25.github.io/Demo-project/**
+
+Showcasing my projects, technical skills, and learning journey through a modern responsive web interface.
+
+</div>
+
+---
+
+## 📈 Growth Mindset
+
+```text
+Learn → Build → Improve → Repeat
 ```
 
----
-
-# 🏢 NPCIL Internship
-
-<div align="center">
-
-🛡️ Research & Enterprise Infrastructure Exposure
-
-</div>
-
-### Worked On
-
-* Data Backup Strategies
-* Disaster Recovery Management
-* Cybersecurity Fundamentals
-* Enterprise Infrastructure Awareness
-
-✅ Successfully completed internship training and received certification.
+I believe consistent learning and hands-on development are the keys to becoming an exceptional software engineer.
 
 ---
 
-# 🌐 Featured Project
-
-<div align="center">
-
-## Portfolio Website
-
-### 🔗 https://neelkore25.github.io/Demo-project/
-
-</div>
-
----
-
-
-
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/neel-kore-00567231b">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/neel_kore">
-<img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://neelkore25.github.io/Demo-project/">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </div>
@@ -111,11 +127,10 @@ Goal:
 
 <div align="center">
 
-## ⚡ Visitor Counter
+### 💭 Developer Philosophy
 
+> "Building today. Learning every day. Creating solutions for tomorrow."
 
-### "Code. Learn. Build. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=120&section=footer"/>
 
 </div>
