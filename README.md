@@ -11,7 +11,7 @@
 
 # 🌌 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZxMThkOHNxOWQ0cDB6Y2V0YjQ0aGNwM2M2bTRwNnJxZTIwcnY2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
 
 ```yaml
 Name: Neel Kore
