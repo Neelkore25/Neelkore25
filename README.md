@@ -1,103 +1,155 @@
-# Hi there, I'm Neel Kore 👋
+<div align="center">
 
-<h3 align="center">🚀 Aspiring Software Engineer | MERN Stack Developer | Tech Enthusiast</h3>
+# ⚡ NEEL KORE ⚡
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Third-Year+Computer+Science+Student;MERN+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer+In+Progress;MERN+Stack+Developer;Cybersecurity+Explorer;Networking+Enthusiast;Building+The+Future+One+Commit+At+A+Time" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20To%20My%20Digital%20Universe&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-## 👨‍💻 About Me
-
-🎓 Third-Year Undergraduate Student from India
-
-💻 Passionate about building modern web applications
-
-🌐 Focused on Full-Stack Web Development
-
-🔐 Exploring Cybersecurity & Networking
-
-🚀 Working towards becoming a Software Engineer
-
-📚 Continuously learning and improving every day
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌌 About Me
 
-### Frontend
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZxMThkOHNxOWQ0cDB6Y2V0YjQ0aGNwM2M2bTRwNnJxZTIwcnY2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+```yaml
+Name: Neel Kore
+Location: India 🇮🇳
+Education: Third-Year Undergraduate
+Focus:
+  - Full Stack Development
+  - MERN Stack
+  - Cybersecurity
+  - Networking
+Goal:
+  - Become an Elite Software Engineer
+```
 
-### Backend
+🔥 Passionate about building scalable web applications
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+🔐 Exploring cybersecurity and digital defense
 
-### Database
+🌐 Learning modern technologies every day
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+🚀 Turning ideas into impactful software
 
-### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### Tools & Concepts
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge)
+💡 Believer in continuous growth and innovation
 
 ---
 
-## 💼 Internship Experience
+# ⚔️ Tech Arsenal
 
-### 🏢 NPCIL Internship
+<div align="center">
 
-Worked on research and analysis related to:
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp,c,vscode&theme=dark" />
 
-* 🔹 Data Backup Strategies
-* 🔹 Disaster Recovery Management
-* 🔹 Cybersecurity Fundamentals
-* 🔹 Enterprise Infrastructure Awareness
-
-✅ Successfully completed the internship and received a completion certificate.
+</div>
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Current Mission
 
-### 🌐 Portfolio Website
-
-🔗 **Live Demo:**
-https://neelkore25.github.io/Demo-project/
+```diff
++ Building Full Stack Applications
++ Improving DSA & Problem Solving
++ Learning Advanced React
++ Exploring Cybersecurity
++ Strengthening Networking Knowledge
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🏢 NPCIL Internship
 
-<p align="left">
+<div align="center">
+
+🛡️ Research & Enterprise Infrastructure Exposure
+
+</div>
+
+### Worked On
+
+* Data Backup Strategies
+* Disaster Recovery Management
+* Cybersecurity Fundamentals
+* Enterprise Infrastructure Awareness
+
+✅ Successfully completed internship training and received certification.
+
+---
+
+# 🌐 Featured Project
+
+<div align="center">
+
+## Portfolio Website
+
+### 🔗 https://neelkore25.github.io/Demo-project/
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neelkore25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neelkore25&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelkore25&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelkore25&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/neel-kore-00567231b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://www.instagram.com/neel_kore">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Always learning, building, and improving."
+## ⚡ Visitor Counter
 
-![Profile Views](https://komarev.com/ghpvc/?username=neelkore25\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<img src="https://komarev.com/ghpvc/?username=neelkore25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+### "Code. Learn. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 
 </div>
