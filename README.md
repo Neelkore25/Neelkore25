@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer+In+Progress;MERN+Stack+Developer;Cybersecurity+Explorer;Networking+Enthusiast;Building+The+Future+One+Commit+At+A+Time" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20To%20My%20Digital%20Universe&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
