@@ -44,7 +44,7 @@ I completed a research-based internship at NPCIL where I gained exposure to data
 
 ### Portfolio Website
 
-🔗(https://neelkore25.github.io/Portfolio/)
+🔗https://neelkore25.github.io/Portfolio/
 
 A responsive portfolio website showcasing projects, skills, and professional growth.
 
@@ -56,7 +56,6 @@ A responsive portfolio website showcasing projects, skills, and professional gro
 **LinkedIn**
 https://www.linkedin.com/in/neel-kore-00567231b
 
-**Portfolio**
-https://neelkore25.github.io/Demo-project/](https://neelkore25.github.io/Portfolio/
-
+**Instagram**
+https://www.instagram.com/neel_kore?utm_source=qr&igsh=cjZsZW5ydGdid3N6
 </div>
