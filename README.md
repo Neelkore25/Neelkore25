@@ -50,15 +50,6 @@ A responsive portfolio website showcasing projects, skills, and professional gro
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&theme=transparent" />
-
-</div>
-
----
 
 ## Connect
 
