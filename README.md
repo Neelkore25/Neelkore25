@@ -1,66 +1,71 @@
+<div align="center">
+
 # Neel Kore
 
-Third-Year Undergraduate Student | MERN Stack Developer | Aspiring Software Engineer
+### Software Engineering Student • MERN Stack Developer
 
-I'm a Computer Science student from India with an interest in web development, software engineering, networking, and cybersecurity.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Learning+something+new+every+day;Exploring+networking+and+cybersecurity" />
 
-Currently, I'm focused on building full-stack applications using the MERN stack while strengthening my understanding of software design, problem solving, and modern web technologies.
+</div>
 
-## Technologies
+---
 
-**Frontend**
+## About Me
 
-* HTML
-* CSS
-* JavaScript
-* React.js
+I'm a third-year undergraduate student from India with a strong interest in software engineering, web development, networking, and cybersecurity.
 
-**Backend**
+Currently, I'm focused on building full-stack applications with the MERN stack while strengthening my understanding of system design, problem solving, and modern web technologies.
 
-* Node.js
-* Express.js
+I completed a research-based internship at NPCIL where I gained exposure to data backup strategies, disaster recovery management, cybersecurity fundamentals, and enterprise infrastructure concepts.
 
-**Database**
+---
 
-* MongoDB
+## Tech Stack
 
-**Programming Languages**
+<div align="center">
 
-* C
-* C++
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp,c,vscode" />
 
-## Experience
+</div>
 
-### NPCIL Internship
-
-Completed a research-based internship focused on:
-
-* Data backup strategies
-* Disaster recovery management
-* Cybersecurity fundamentals
-* Enterprise infrastructure awareness
-
-The internship provided practical exposure to system reliability, business continuity, and information security concepts.
+---
 
 ## Current Focus
 
-* Full-Stack Web Development
-* MERN Stack
-* Data Structures & Algorithms
-* Networking Fundamentals
-* Cybersecurity Concepts
+* Building MERN stack projects
+* Improving DSA and problem solving
+* Learning advanced React concepts
+* Exploring networking fundamentals
+* Expanding cybersecurity knowledge
 
-## Projects
+---
+
+## Featured Project
 
 ### Portfolio Website
 
-Portfolio:
-https://neelkore25.github.io/Demo-project/
+🔗 https://neelkore25.github.io/Demo-project/
+
+A responsive portfolio website showcasing projects, skills, and professional growth.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&theme=transparent" />
+
+</div>
+
+---
 
 ## Connect
 
-LinkedIn:
+**LinkedIn**
 https://www.linkedin.com/in/neel-kore-00567231b
 
-Portfolio:
+**Portfolio**
 https://neelkore25.github.io/Demo-project/
+
+</div>
