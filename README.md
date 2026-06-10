@@ -57,6 +57,6 @@ A responsive portfolio website showcasing projects, skills, and professional gro
 https://www.linkedin.com/in/neel-kore-00567231b
 
 **Portfolio**
-https://neelkore25.github.io/Demo-project/
+https://neelkore25.github.io/Demo-project/](https://neelkore25.github.io/Portfolio/
 
 </div>
