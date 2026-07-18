@@ -1,16 +1,18 @@
+
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/banner-glass.svg" width="100%" alt="banner"/>
 
 <br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/👋_About-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/💻_Tech_Stack-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
-<a href="#stats"><img src="https://img.shields.io/badge/📊_Stats-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/🚀_Projects-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
-<a href="#connect"><img src="https://img.shields.io/badge/📫_Connect-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
+<a href="#about"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-about.svg"/></a>
+<a href="#stack"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-stack.svg"/></a>
+<a href="#stats"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-stats.svg"/></a>
+<a href="#projects"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-projects.svg"/></a>
+<a href="#connect"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-connect.svg"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1800&duration=4200&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Learning+Systems+%26+Cybersecurity;Always+Improving"/>
 
@@ -20,8 +22,8 @@
 
 <br/>
 
-<h2 id="about">
-<img src="https://img.shields.io/badge/01-%E2%9C%A8_About_Me-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
+<h2 id="about" align="center">
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-about.svg"/>
 </h2>
 
 I'm a **third-year undergraduate student** from **India**, passionate about **Software Engineering, Full-Stack Development, Networking, and Cybersecurity**.
@@ -42,36 +44,34 @@ Currently focused on building modern applications with the **MERN Stack**, while
 
 <br/>
 
-<h2 id="stack">
-<img src="https://img.shields.io/badge/02-%E2%9A%99%EF%B8%8F_Tech_Stack-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
+<h2 id="stack" align="center">
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-stack.svg"/>
 </h2>
 
 <div align="center">
 
 **Languages**
 <br/>
-**Languages**
-<br/><br/>
 <img src="https://skillicons.dev/icons?i=js,c,cpp,html,css&theme=dark&perline=5" height="55"/>
 
-<br/><br/>
+<br/>
 
 **Frameworks & Libraries**
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" height="55"/>
 
-<br/><br/>
+<br/>
 
 **Tools**
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="55"/>
 
 </div>
 
 <br/>
 
-<h2 id="focus">
-<img src="https://img.shields.io/badge/03-%F0%9F%8E%AF_Current_Focus-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
+<h2 id="focus" align="center">
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-focus.svg"/>
 </h2>
 
 - 🚀 &nbsp;Building production-quality MERN Stack projects
@@ -83,8 +83,8 @@ Currently focused on building modern applications with the **MERN Stack**, while
 
 <br/>
 
-<h2 id="stats">
-<img src="https://img.shields.io/badge/04-%F0%9F%93%88_GitHub_Stats-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
+<h2 id="stats" align="center">
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-stats.svg"/>
 </h2>
 
 <div align="center">
@@ -96,15 +96,15 @@ Currently focused on building modern applications with the **MERN Stack**, while
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelkore25&hide_border=true&background=0D1117&ring=1D4ED8&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B&border_radius=20"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelkore25&theme=react-dark&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&border_radius=20"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/output/snake-dark.svg"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Neelkore25&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 
@@ -112,35 +112,33 @@ Currently focused on building modern applications with the **MERN Stack**, while
 
 <br/>
 
-<h2 id="projects">
-<img src="https://img.shields.io/badge/05-%F0%9F%9A%80_Featured_Project-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
+<h2 id="projects" align="center">
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-projects.svg"/>
 </h2>
 
 ### 🌐 Portfolio Website
 A responsive portfolio showcasing my projects, skills, and professional journey — built to feel fast, clean, and personal.
 
-<img src="https://img.shields.io/badge/React-0F172A?style=plastic&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=plastic&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=plastic&logo=css3&logoColor=1572B6"/>
+<img src="https://skillicons.dev/icons?i=react,js,css&theme=dark" height="40"/>
 
 **🔗 Live Demo:** [Neelkore25.github.io/Portfolio](https://Neelkore25.github.io/Portfolio/)
 
 <br/>
 
-<h2 id="connect">
-<img src="https://img.shields.io/badge/06-%F0%9F%93%AB_Connect_With_Me-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
+<h2 id="connect" align="center">
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-connect.svg"/>
 </h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/neel-kore-00567231b">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=plastic&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/social-linkedin.svg"/>
 </a>
 <a href="https://www.instagram.com/neel_kore">
-<img src="https://img.shields.io/badge/Instagram-0F172A?style=plastic&logo=instagram&logoColor=E4405F"/>
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/social-instagram.svg"/>
 </a>
 <a href="mailto:Neelkore25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0F172A?style=plastic&logo=gmail&logoColor=EA4335"/>
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/social-gmail.svg"/>
 </a>
 
 </div>
