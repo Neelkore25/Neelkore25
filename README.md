@@ -1,37 +1,40 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:111827,70:2563EB,100:0F172A&text=Neel%20Kore&fontColor=FFFFFF&fontSize=68&font=Poppins&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20MERN%20Stack%20Developer&descAlignY=62&descColor=CBD5E1&descSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0F172A,75:1D4ED8,100:0F172A&text=Neel%20Kore&fontSize=64&fontColor=FFFFFF&font=Poppins&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20MERN%20Stack%20Developer&descAlignY=60&descColor=CBD5E1&descSize=22&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=4200&pause=1800&color=60A5FA&center=true&vCenter=true&width=760&lines=Build+with+Purpose.;Learn+with+Curiosity.;Grow+with+Consistency.;Always+Improving." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=4200&pause=1800&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Learning+Systems+%26+Cybersecurity;Always+Improving"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I'm a **third-year undergraduate student** from **India** passionate about building modern software and continuously improving as an engineer.
+I'm a **third-year undergraduate student** from **India** passionate about **Software Engineering, Full-Stack Development, Networking, and Cybersecurity**.
 
-Currently I'm focused on **Full-Stack Web Development**, while strengthening my knowledge in:
+Currently I'm focused on building modern applications with the **MERN Stack** while improving my understanding of:
 
+- 🚀 Software Engineering
 - 💻 MERN Stack Development
 - 🧠 Data Structures & Algorithms
 - 🌐 Networking
 - 🔐 Cybersecurity
 - 🏗️ System Design
 
-I completed a **research internship at NPCIL**, where I worked on:
+### Internship
+
+I completed a **research internship at NPCIL**, where I gained practical exposure to:
 
 - Data Backup Strategies
 - Disaster Recovery Management
-- Enterprise Infrastructure
 - Cybersecurity Fundamentals
+- Enterprise Infrastructure Concepts
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -41,23 +44,18 @@ I completed a **research internship at NPCIL**, where I worked on:
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-- 🚀 Building production-ready MERN Stack projects
-- 📚 Improving DSA and problem solving
+- 🚀 Building production-quality MERN Stack projects
+- 📚 Improving Data Structures & Algorithms
 - ⚛️ Learning advanced React concepts
-- 🌐 Exploring Computer Networking
+- 🌐 Exploring Networking
 - 🔐 Expanding Cybersecurity knowledge
-- ✨ Writing cleaner, scalable software
+- ✨ Writing clean, scalable software
 
 ---
 
-## 🌟 Featured Project
-
-<table>
-<tr>
-
-<td width="100%">
+# 🌟 Featured Project
 
 ### Portfolio Website
 
@@ -67,39 +65,32 @@ A responsive portfolio showcasing my projects, skills and professional journey.
 
 **https://neelkore25.github.io/Portfolio/**
 
-</td>
-
-</tr>
-</table>
-
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/neel-kore-00567231b">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/neel_kore">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=60A5FA"/>
 </a>
-
+&nbsp;
 <a href="mailto:neelkore25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-> **"Building with curiosity • Learning with consistency • Growing every day."**
+> ### *Building with curiosity • Learning with consistency • Growing every day.*
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:111827,100:2563EB"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,50:0F172A,100:1D4ED8"/>
