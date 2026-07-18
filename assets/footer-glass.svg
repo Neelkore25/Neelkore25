@@ -1,0 +1,37 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&amp;display=swap');
+      .quote { font-family: 'Space Grotesk', sans-serif; font-weight: 500; }
+    </style>
+    <linearGradient id="bgF" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="glassFillF" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="glassStrokeF" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="textGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#93C5FD"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="blurHeavyF" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="50"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#bgF)"/>
+  <circle cx="150" cy="140" r="140" fill="#1D4ED8" opacity="0.45" filter="url(#blurHeavyF)"/>
+  <circle cx="1050" cy="30" r="150" fill="#7C3AED" opacity="0.30" filter="url(#blurHeavyF)"/>
+
+  <rect x="220" y="35" width="760" height="90" rx="30" fill="url(#glassFillF)" stroke="url(#glassStrokeF)" stroke-width="1.2"/>
+  <text x="600" y="88" text-anchor="middle" class="quote" font-size="19" fill="url(#textGradF)" letter-spacing="0.3">
+    Building with curiosity  •  Learning with consistency  •  Growing every day
+  </text>
+</svg>
