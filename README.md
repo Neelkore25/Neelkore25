@@ -1,39 +1,39 @@
 <!--
-Design philosophy:
-- Intentional restraint over decoration.
-- One visual anchor (hero banner), one subtle typing animation.
-- No divider bars between every section.
-- Minimal badge usage, consistent style.
-- Optimized for GitHub's HTML sanitizer.
+Minimal, modern GitHub Profile README
+Designed for GitHub's Markdown sanitizer.
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,60:1E293B,100:334155&text=Neel%20Kore&fontColor=F8FAFC&fontSize=56&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20MERN%20Stack%20Developer&descAlignY=58&descColor=CBD5E1&descSize=18&font=Poppins&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:1E293B,75:2563EB,100:1E293B&text=Neel%20Kore&fontColor=F8FAFC&fontSize=66&fontAlignY=37&font=Poppins&desc=Software%20Engineering%20Student%20•%20MERN%20Stack%20Developer&descAlignY=60&descColor=CBD5E1&descSize=22&animation=fadeIn" />
 
-<!-- Calm typing animation: slower speed, muted accent -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4200&pause=1800&color=94A3B8&center=true&vCenter=true&width=720&lines=Building+thoughtful+full-stack+applications;Learning+systems%2C+networking+and+cybersecurity;Focused+on+writing+clean%2C+maintainable+code" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=4200&pause=1800&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+thoughtful+full-stack+applications;Learning+systems%2C+networking+and+cybersecurity;Focused+on+writing+clean%2C+maintainable+code" />
+
+<br><br>
+
+<!-- Subtle accent line -->
+<img width="180" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB"/>
 
 </div>
 
 ---
 
-## About Me
+<h2>👨‍💻 About Me</h2>
 
-I'm a third-year undergraduate student from India with a strong interest in **software engineering, full-stack development, networking, and cybersecurity**.
+I'm a **third-year undergraduate student** from India with a strong interest in **Software Engineering, Full-Stack Development, Networking, and Cybersecurity**.
 
-My primary focus is building modern web applications using the **MERN stack** while continuously improving my understanding of **system design, problem solving, and software engineering fundamentals**.
+My primary focus is building modern web applications using the **MERN Stack** while continuously improving my understanding of **System Design, Problem Solving, and Software Engineering Fundamentals**.
 
-During my research internship at **NPCIL**, I gained exposure to:
+During my research internship at **NPCIL**, I gained practical exposure to:
 
-- Data backup and disaster recovery strategies
-- Cybersecurity fundamentals
-- Enterprise infrastructure concepts
-- Research-oriented problem solving
+- Data Backup & Disaster Recovery
+- Cybersecurity Fundamentals
+- Enterprise Infrastructure Concepts
+- Research-Oriented Problem Solving
 
 ---
 
-## Tech Stack
+<h2>⚙️ Tech Stack</h2>
 
 <div align="center">
 
@@ -43,57 +43,54 @@ During my research internship at **NPCIL**, I gained exposure to:
 
 ---
 
-## Current Focus
+<h2>🎯 Current Focus</h2>
 
-- Building production-quality **MERN stack** applications
-- Strengthening **Data Structures & Algorithms**
-- Learning advanced **React** patterns and best practices
-- Exploring **Networking** fundamentals
-- Expanding my understanding of **Cybersecurity**
-- Writing cleaner, more maintainable code
+- 🚀 Building production-quality **MERN Stack** applications
+- 📚 Strengthening **Data Structures & Algorithms**
+- ⚛️ Learning advanced **React** concepts
+- 🌐 Exploring **Networking**
+- 🔐 Expanding my knowledge of **Cybersecurity**
+- ✨ Writing cleaner, scalable, and maintainable code
 
 ---
 
-## Featured Project
+<h2>💼 Featured Project</h2>
 
-| Portfolio Website |
+| **Portfolio Website** |
 | :--- |
-| A responsive portfolio showcasing my projects, technical skills, and continuous learning journey. |
-| **Live Demo:** https://neelkore25.github.io/Portfolio/ |
-
-<!--
-Using a simple markdown table instead of flashy cards.
-GitHub tables render consistently and look much cleaner.
--->
+| A responsive portfolio showcasing my projects, skills, and continuous learning journey. |
+| **🌐 Live Demo →** **https://neelkore25.github.io/Portfolio/** |
 
 ---
 
-## Connect
+<h2>📫 Connect</h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/neel-kore-00567231b">
-<img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat&logo=linkedin&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat&logo=linkedin&logoColor=60A5FA" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/neel_kore">
-<img src="https://img.shields.io/badge/Instagram-1E293B?style=flat&logo=instagram&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Instagram-1E293B?style=flat&logo=instagram&logoColor=60A5FA" />
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:neelkore25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1E293B?style=flat&logo=gmail&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Gmail-1E293B?style=flat&logo=gmail&logoColor=60A5FA" />
 </a>
 
 </div>
 
-<!--
-Intentionally no GitHub stats cards, contribution snakes,
-visitor counters, trophy walls, or dozens of badges.
-The whitespace is part of the design.
--->
+<br>
 
 <div align="center">
 
-<sub>Building with curiosity. Improving through consistency.</sub>
+<sub><b>Building with curiosity • Learning with consistency • Growing every day</b></sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,50:1E293B,100:2563EB"/>
