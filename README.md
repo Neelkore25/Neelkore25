@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/About-0F172A?style=plastic&logoColor=white"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0F172A?style=plastic&logoColor=white"/></a>
-<a href="#stats"><img src="https://img.shields.io/badge/Stats-0F172A?style=plastic&logoColor=white"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-0F172A?style=plastic&logoColor=white"/></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-0F172A?style=plastic&logoColor=white"/></a>
+<a href="#about"><img src="https://img.shields.io/badge/👋_About-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/💻_Tech_Stack-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/📊_Stats-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/🚀_Projects-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/📫_Connect-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
 
 <br/><br/>
 
@@ -21,31 +21,21 @@
 <br/>
 
 <h2 id="about">
-<img src="https://img.shields.io/badge/01-About%20Me-0F172A?style=plastic&labelColor=1D4ED8&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/01-%E2%9C%A8_About_Me-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
 </h2>
 
 I'm a **third-year undergraduate student** from **India**, passionate about **Software Engineering, Full-Stack Development, Networking, and Cybersecurity**.
 
 Currently focused on building modern applications with the **MERN Stack**, while sharpening:
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🚀 &nbsp;**Software Engineering** — clean architecture, scalable code
+- 💻 &nbsp;**MERN Stack Development** — full-stack, production-ready builds
+- 🧠 &nbsp;**Data Structures & Algorithms** — daily problem solving
+- 🌐 &nbsp;**Networking** — protocols, infrastructure fundamentals
+- 🔐 &nbsp;**Cybersecurity** — securing modern applications
+- 🏗️ &nbsp;**System Design** — designing for scale
 
-🚀 &nbsp;Software Engineering
-💻 &nbsp;MERN Stack Development
-🧠 &nbsp;Data Structures & Algorithms
-
-</td>
-<td width="50%" valign="top">
-
-🌐 &nbsp;Networking
-🔐 &nbsp;Cybersecurity
-🏗️ &nbsp;System Design
-
-</td>
-</tr>
-</table>
+<br/>
 
 > ### 🎓 Internship — NPCIL
 > Completed a **research internship at NPCIL**, gaining hands-on exposure to **Data Backup Strategies**, **Disaster Recovery Management**, **Cybersecurity Fundamentals**, and **Enterprise Infrastructure** concepts.
@@ -53,43 +43,35 @@ Currently focused on building modern applications with the **MERN Stack**, while
 <br/>
 
 <h2 id="stack">
-<img src="https://img.shields.io/badge/02-Tech%20Stack-0F172A?style=plastic&labelColor=1D4ED8&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/02-%E2%9A%99%EF%B8%8F_Tech_Stack-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
 </h2>
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=plastic&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/C-0F172A?style=plastic&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=plastic&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=plastic&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=plastic&logo=css3&logoColor=1572B6"/>
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,c,cpp,html,css&theme=dark&perline=5" height="55"/>
 
 <br/><br/>
 
 **Frameworks & Libraries**
-<br/>
-<img src="https://img.shields.io/badge/React-0F172A?style=plastic&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=plastic&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-0F172A?style=plastic&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-0F172A?style=plastic&logo=mongodb&logoColor=47A248"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" height="55"/>
 
 <br/><br/>
 
 **Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-0F172A?style=plastic&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=plastic&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=plastic&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Postman-0F172A?style=plastic&logo=postman&logoColor=FF6C37"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="55"/>
 
 </div>
 
 <br/>
 
 <h2 id="focus">
-<img src="https://img.shields.io/badge/03-Current%20Focus-0F172A?style=plastic&labelColor=1D4ED8&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/03-%F0%9F%8E%AF_Current_Focus-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
 </h2>
 
 - 🚀 &nbsp;Building production-quality MERN Stack projects
@@ -102,7 +84,7 @@ Currently focused on building modern applications with the **MERN Stack**, while
 <br/>
 
 <h2 id="stats">
-<img src="https://img.shields.io/badge/04-GitHub%20Stats-0F172A?style=plastic&labelColor=1D4ED8&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/04-%F0%9F%93%88_GitHub_Stats-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
 </h2>
 
 <div align="center">
@@ -131,12 +113,8 @@ Currently focused on building modern applications with the **MERN Stack**, while
 <br/>
 
 <h2 id="projects">
-<img src="https://img.shields.io/badge/05-Featured%20Project-0F172A?style=plastic&labelColor=1D4ED8&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/05-%F0%9F%9A%80_Featured_Project-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
 </h2>
-
-<table width="100%">
-<tr>
-<td>
 
 ### 🌐 Portfolio Website
 A responsive portfolio showcasing my projects, skills, and professional journey — built to feel fast, clean, and personal.
@@ -147,14 +125,10 @@ A responsive portfolio showcasing my projects, skills, and professional journey 
 
 **🔗 Live Demo:** [Neelkore25.github.io/Portfolio](https://Neelkore25.github.io/Portfolio/)
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 <h2 id="connect">
-<img src="https://img.shields.io/badge/06-Connect%20With%20Me-0F172A?style=plastic&labelColor=1D4ED8&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/06-%F0%9F%93%AB_Connect_With_Me-1D4ED8?style=for-the-badge&labelColor=0F172A&logoColor=60A5FA" height="40"/>
 </h2>
 
 <div align="center">
