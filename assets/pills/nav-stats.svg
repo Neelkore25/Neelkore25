@@ -1,0 +1,30 @@
+<svg width="163" height="46" viewBox="0 0 163 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap');
+      .pilltext { font-family: 'Space Grotesk', sans-serif; font-weight: 700; }
+    </style>
+    <linearGradient id="fill-Sta" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="stroke-Sta" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="sheen-Sta" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow-Sta" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <circle cx="29.34" cy="23.0" r="41.4" fill="#1D4ED8" opacity="0.35" filter="url(#glow-Sta)"/>
+
+  <rect x="1" y="1" width="161" height="44" rx="22.0" fill="url(#fill-Sta)" stroke="url(#stroke-Sta)" stroke-width="1.3"/>
+  <path d="M 11.5 5.52 Q 81.5 0.92 151.5 5.52 L 151.5 19.32 Q 81.5 13.799999999999999 11.5 19.32 Z" fill="url(#sheen-Sta)"/>
+
+  <text x="81.5" y="28.6" text-anchor="middle" class="pilltext" font-size="16" fill="#F1F5F9" letter-spacing="0.3">&#128202; Stats</text>
+</svg>
