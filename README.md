@@ -1,23 +1,8 @@
-<!--
-  ================================================================
-  SETUP — read this once, then delete this comment block.
-
-  1. Replace every occurrence of  Neelkore25  below with your exact
-     GitHub username (case-sensitive), if it differs.
-  2. Create a repo named EXACTLY your username (e.g. Neelkore25/Neelkore25)
-     and push this entire folder's contents to it — keep the
-     assets/ folder and .github/workflows/snake.yml in place.
-  3. The snake workflow needs Actions enabled: Settings → Actions →
-     General → Workflow permissions → "Read and write permissions".
-     It will auto-run once a day and on every push.
-  4. Everything else (stats cards, typing text, activity graph) is
-     served live by public APIs — no extra setup needed.
-  ================================================================
--->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/banner-glass.svg" width="100%" alt="banner"/>
+# NEEL KORE
+
+**Computer Engineering Student &nbsp;•&nbsp; Exploring Web & Software Development &nbsp;•&nbsp; Cybersecurity Enthusiast**
 
 <br/>
 
@@ -29,28 +14,26 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1800&duration=4200&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Learning+Systems+%26+Cybersecurity;Always+Improving"/>
-
-<img src="https://komarev.com/ghpvc/?username=Neelkore25&style=flat-square&color=1D4ED8&label=Profile+Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1800&duration=4200&color=60A5FA&center=true&vCenter=true&width=750&lines=Learning+Modern+Web+Development;Exploring+Systems+%26+Cybersecurity;Always+Improving"/>
 
 </div>
+
 
 <br/>
 
 <h2 id="about" align="center">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-about.svg"/>
+<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-about.svg"/></a>
 </h2>
 
-I'm a **third-year undergraduate student** from **India**, passionate about **Software Engineering, Full-Stack Development, Networking, and Cybersecurity**.
+I'm a **third-year undergraduate student** from **India**, with a strong interest in **Web Development, Software Development, Networking, and Cybersecurity**.
 
-Currently focused on building modern applications with the **MERN Stack**, while sharpening:
+Currently learning and building projects with the **MERN Stack** while exploring:
 
-- 🚀 &nbsp;**Software Engineering** — clean architecture, scalable code
-- 💻 &nbsp;**MERN Stack Development** — full-stack, production-ready builds
+- 💻 &nbsp;**Web & Software Development** — learning to write clean, organized code
 - 🧠 &nbsp;**Data Structures & Algorithms** — daily problem solving
 - 🌐 &nbsp;**Networking** — protocols, infrastructure fundamentals
-- 🔐 &nbsp;**Cybersecurity** — securing modern applications
-- 🏗️ &nbsp;**System Design** — designing for scale
+- 🔐 &nbsp;**Cybersecurity** — exploring how modern applications stay secure
+- 🏗️ &nbsp;**System Design** — learning the basics of designing for scale
 
 <br/>
 
@@ -60,7 +43,7 @@ Currently focused on building modern applications with the **MERN Stack**, while
 <br/>
 
 <h2 id="stack" align="center">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-stack.svg"/>
+<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-stack.svg"/></a>
 </h2>
 
 <div align="center">
@@ -86,20 +69,20 @@ Currently focused on building modern applications with the **MERN Stack**, while
 <br/>
 
 <h2 id="focus" align="center">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-focus.svg"/>
+<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-focus.svg"/></a>
 </h2>
 
-- 🚀 &nbsp;Building production-quality MERN Stack projects
+- 💻 &nbsp;Building MERN Stack projects to learn full-stack development
 - 📚 &nbsp;Improving Data Structures & Algorithms
-- ⚛️ &nbsp;Learning advanced React concepts
+- ⚛️ &nbsp;Learning React concepts in depth
 - 🌐 &nbsp;Exploring Networking
-- 🔐 &nbsp;Expanding Cybersecurity knowledge
-- ✨ &nbsp;Writing clean, scalable software
+- 🔐 &nbsp;Building foundations in Cybersecurity
+- ✨ &nbsp;Learning to write clean, readable code
 
 <br/>
 
 <h2 id="stats" align="center">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-stats.svg"/>
+<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-stats.svg"/></a>
 </h2>
 
 <div align="center">
@@ -128,7 +111,7 @@ Currently focused on building modern applications with the **MERN Stack**, while
 <br/>
 
 <h2 id="projects" align="center">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-projects.svg"/>
+<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-projects.svg"/></a>
 </h2>
 
 ### 🌐 Portfolio Website
@@ -141,7 +124,7 @@ A responsive portfolio showcasing my projects, skills, and professional journey 
 <br/>
 
 <h2 id="connect" align="center">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-connect.svg"/>
+<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-connect.svg"/></a>
 </h2>
 
 <div align="center">
@@ -161,5 +144,9 @@ A responsive portfolio showcasing my projects, skills, and professional journey 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/footer-glass.svg" width="100%"/>
+
+---
+
+**Thanks for stopping by!** ⭐
+
 </div>
