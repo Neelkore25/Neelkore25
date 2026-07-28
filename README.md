@@ -66,8 +66,12 @@ I'm a Computer Engineering student at **St. John College of Engineering and Mana
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&ring_color=60A5FA" width="100%"/></td>
-    <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelkore25&layout=donut&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" width="100%"/></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neelkore25&theme=github_dark" width="100%"/></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neelkore25&theme=github_dark" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neelkore25&theme=github_dark" width="100%" /></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neelkore25&theme=github_dark&utcOffset=5.5" width="100%" /></td>
   </tr>
 </table>
 
@@ -87,14 +91,15 @@ I'm a Computer Engineering student at **St. John College of Engineering and Mana
 
 </div>
 
-</div>
 <br/>
 
 # Show Some Love
 
-If you enjoy my projects, consider giving them a ⭐. It really helps and motivates me to build more.
+If you enjoy my projects, consider giving them a ⭐. It really helps and motivates me to build more open-source software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-6C4CE0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Neelkore25.github.io/Portfolio/)
+If you'd like to support my work further, you can also buy me a coffee ☕
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/your-username)
 <br /><br />
 
 # GitHub Stats and Views
@@ -107,6 +112,10 @@ If you enjoy my projects, consider giving them a ⭐. It really helps and motiva
 ![Profile Views](https://komarev.com/ghpvc/?username=Neelkore25&style=for-the-badge&labelColor=000000&base=1000)
 
 </div>
+<br/>
+
+![footer banner](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=80:60A5FA,20:0f0c29&section=footer" width="100%"/>
