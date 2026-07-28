@@ -1,134 +1,148 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/hero.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Neel%20Kore&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2400&duration=3200&color=8FA3C8&center=true&vCenter=true&width=640&lines=Shipping+MERN+projects%2C+one+commit+at+a+time;Thinking+in+systems%2C+securing+what+I+build;Currently+deep+in+DSA+%2B+networking+fundamentals"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A5CF5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;MERN+Stack+Developer;Cybersecurity+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br/>
-
-## About
-
-I'm a Computer Engineering student in India who likes turning ideas into working software, then figuring out how to keep it safe. Most of my time goes into building with the **MERN stack**, sharpening my problem-solving through **DSA**, and studying the **networking and system-design** fundamentals that sit underneath every real product.
-
-I picked up a security-first mindset during a research internship at **NPCIL**, where I worked on data backup strategy, disaster recovery, and enterprise infrastructure — and it's shaped how I think about building things ever since: not just "does it work," but "does it hold up."
-
-**Right now:** building full-stack projects end to end, going deeper on system design, and treating cybersecurity as a first-class part of development — not an afterthought.
-
-<br/>
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:Neelkore25@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/neel-kore-00567231b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/neel_kore"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/Neelkore25"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://Neelkore25.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D5DFC?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-## Tech Stack
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td width="100%">
+
+## 👋 Hey, I'm Neel!
+
+I'm a Computer Engineering student at **St. John College of Engineering and Management**, spending most of my time somewhere between a MERN stack and a terminal window. I like building full-stack apps that actually work end-to-end, and I get a little too excited about anything related to networks, systems, and security.
+
+- 🎓 Currently sharpening my fundamentals in **Data Structures, DBMS, OS, and Computer Networks**.
+- 🛡️ Completed hands-on industrial training at **NPCIL (Nuclear Power Corporation of India Limited)**, working on **Data Backup & Cybersecurity** — think Commvault, RAID, LTO tape backups, and disaster recovery for critical infrastructure.
+- ⚡ Building projects with the **MERN stack**, while poking around **Kali Linux** on the side to understand how systems break (so I can build ones that don't).
+- 🌱 Currently leveling up in **Cybersecurity fundamentals & secure system design**.
+- 💬 Always up for a conversation about web dev, security, or why RAID 5 isn't a backup strategy.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## 🔗 Connect With Me
+
+<a href="mailto:neelkore25@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/neel-kore-00567231b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Neelkore25">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://instagram.com/your-instagram-handle">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://your-username.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-6C4CE0?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
 
 **Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=js,c,cpp&theme=dark&perline=3" height="46"/>
-
-</td>
-<td align="center" width="25%">
-
-**Frontend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3" height="46"/>
-
-</td>
-<td align="center" width="25%">
-
-**Backend & Database**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=3" height="46"/>
-
-</td>
-<td align="center" width="25%">
-
-**Tools & Platforms**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="46"/>
-
-</td>
-</tr>
-</table>
-
 <br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark&perline=6" />
 
-## GitHub Overview
+<br/><br/>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=8FB4FF&icon_color=A78BFA&text_color=B7C0D8&ring_color=8FB4FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelkore25&layout=donut&hide_border=true&bg_color=0A0E1A&title_color=8FB4FF&text_color=B7C0D8"/>
-
+**Frontend & Backend**
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelkore25&hide_border=true&background=0A0E1A&ring=A78BFA&fire=8FB4FF&currStreakLabel=8FB4FF&sideLabels=B7C0D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/Neelkore25?style=for-the-badge&logo=github&label=Followers&color=8FB4FF&labelColor=0A0E1A"/>
-<img src="https://img.shields.io/github/stars/Neelkore25?style=for-the-badge&logo=github&label=Stars&color=A78BFA&labelColor=0A0E1A"/>
-<img src="https://komarev.com/ghpvc/?username=Neelkore25&style=for-the-badge&label=Profile+Views&color=22D3EE&labelColor=0A0E1A"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark&perline=4" />
 
 <br/><br/>
 
-<sub><strong>Contribution Snake</strong></sub>
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark&perline=2" />
+
 <br/><br/>
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/output/snake-dark.svg"/>
+
+**Tools, OS & Security**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,bash&theme=dark&perline=6" />
 
 </div>
 
 <br/>
 
-## Featured Projects
+## 🏢 Industrial Training Highlight
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td width="640">
+<td>
 
-**Portfolio Website**
-<br/>
-A responsive personal portfolio built to showcase my projects and skills — designed to feel fast, clean, and true to who I am as a developer.
+**🔒 NPCIL — Nuclear Power Corporation of India Limited**
+📍 Tarapur, Maharashtra
+📌 *Study of Data Backup and Cyber Security*
 
-<br/>
-
-`React` `JavaScript` `CSS`
-
-<br/>
-
-<a href="https://github.com/Neelkore25/Portfolio"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://Neelkore25.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Demo-8FB4FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+Hands-on exposure to enterprise-grade data protection: **Commvault** backup solutions, **RAID** architectures, **LTO Tape** backup systems, **Disaster Recovery**, and core cybersecurity practices used to safeguard critical national infrastructure.
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A5CF5&icon_color=8A5CF5&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelkore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A5CF5&text_color=c9d1d9" width="42%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelkore25&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF5&fire=8A5CF5&currStreakLabel=8A5CF5" width="60%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
 <br/>
 
 <div align="center">
 
-━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━
+### 💜 If you like what I build, a star goes a long way.
 
-*Code is the closest thing we have to a superpower — build with it, secure it, and keep learning.*
+<img src="https://komarev.com/ghpvc/?username=Neelkore25&style=for-the-badge&color=8A5CF5&labelColor=0d1117&label=PROFILE+VIEWS" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Neelkore25?style=for-the-badge&color=8A5CF5&labelColor=0d1117&label=FOLLOWERS&logo=github" />
 
-**Thanks for visiting ❤️**
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
