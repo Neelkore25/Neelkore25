@@ -87,8 +87,8 @@ Currently learning and building projects with the **MERN Stack** while exploring
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=1D4ED8&border_radius=20"/>
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelkore25&layout=donut&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&border_radius=20"/>
+<img height="168" src="https://github-stats-extended.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=1D4ED8&border_radius=20"/>
+<img height="168" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Neelkore25&layout=donut&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&border_radius=20"/>
 
 <br/>
 
@@ -97,6 +97,10 @@ Currently learning and building projects with the **MERN Stack** while exploring
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelkore25&theme=react-dark&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&border_radius=20"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/output/snake-dark.svg"/>
 
 <br/>
 
