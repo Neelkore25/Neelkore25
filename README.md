@@ -1,143 +1,127 @@
 <div align="center">
 
-# NEEL KORE
+# Neel Kore
 
-**Computer Engineering Student &nbsp;•&nbsp; Exploring Web & Software Development &nbsp;•&nbsp; Cybersecurity Enthusiast**
-
-<br/>
-
-<a href="#about"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-about.svg"/></a>
-<a href="#stack"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-stack.svg"/></a>
-<a href="#stats"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-stats.svg"/></a>
-<a href="#projects"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-projects.svg"/></a>
-<a href="#connect"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/nav-connect.svg"/></a>
+<sub>Computer Engineering Student · MERN Stack · Cybersecurity · India</sub>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1800&duration=4200&color=60A5FA&center=true&vCenter=true&width=750&lines=Learning+Modern+Web+Development;Exploring+Systems+%26+Cybersecurity;Always+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2200&duration=3800&color=60A5FA&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+applications;Strengthening+cybersecurity+%26+system+design+skills;Learning+in+public%2C+one+commit+at+a+time"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/divider.svg" width="340"/>
 
 </div>
 
+<br/>
+
+## About
+
+I'm a third-year Computer Engineering student based in India, focused on building clean, reliable software while developing a strong foundation in security and systems thinking. My day-to-day work centers on the **MERN stack**, alongside ongoing study of **Data Structures & Algorithms**, **Networking**, **Cybersecurity**, and **System Design**.
+
+**Goal:** build scalable full-stack applications while developing strong cybersecurity and system design skills.
+
+**Internship — NPCIL**
+Research internship with hands-on exposure to data backup strategies, disaster recovery management, cybersecurity fundamentals, and enterprise infrastructure.
 
 <br/>
 
-<h2 id="about" align="center">
-<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-about.svg"/></a>
-</h2>
+## Currently Focused On
 
-I'm a **third-year undergraduate student** from **India**, with a strong interest in **Web Development, Software Development, Networking, and Cybersecurity**.
-
-Currently learning and building projects with the **MERN Stack** while exploring:
-
-- 💻 &nbsp;**Web & Software Development** — learning to write clean, organized code
-- 🧠 &nbsp;**Data Structures & Algorithms** — daily problem solving
-- 🌐 &nbsp;**Networking** — protocols, infrastructure fundamentals
-- 🔐 &nbsp;**Cybersecurity** — exploring how modern applications stay secure
-- 🏗️ &nbsp;**System Design** — learning the basics of designing for scale
+- Building full-stack projects end-to-end with the MERN stack
+- Solving DSA problems consistently to sharpen problem-solving
+- Going deeper into React internals and state management
+- Studying core networking concepts and protocols
+- Strengthening cybersecurity fundamentals
+- Writing simpler, more maintainable code
 
 <br/>
 
-> ### 🎓 Internship — NPCIL
-> Completed a **research internship at NPCIL**, gaining hands-on exposure to **Data Backup Strategies**, **Disaster Recovery Management**, **Cybersecurity Fundamentals**, and **Enterprise Infrastructure** concepts.
+## Tech Stack
 
-<br/>
-
-<h2 id="stack" align="center">
-<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-stack.svg"/></a>
-</h2>
-
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,c,cpp,html,css&theme=dark&perline=5" height="55"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,c,cpp,html,css&theme=dark&perline=5" height="48"/>
 
-<br/>
+</td>
+<td align="center" width="33%">
 
 **Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" height="55"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" height="48"/>
 
-<br/>
+</td>
+<td align="center" width="33%">
 
 **Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="55"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="48"/>
 
-</div>
-
-<br/>
-
-<h2 id="focus" align="center">
-<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-focus.svg"/></a>
-</h2>
-
-- 💻 &nbsp;Building MERN Stack projects to learn full-stack development
-- 📚 &nbsp;Improving Data Structures & Algorithms
-- ⚛️ &nbsp;Learning React concepts in depth
-- 🌐 &nbsp;Exploring Networking
-- 🔐 &nbsp;Building foundations in Cybersecurity
-- ✨ &nbsp;Learning to write clean, readable code
+</td>
+</tr>
+</table>
 
 <br/>
 
-<h2 id="stats" align="center">
-<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-stats.svg"/></a>
-</h2>
+## GitHub Stats
 
 <div align="center">
 
-<img height="168" src="https://github-stats-extended.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=1D4ED8&border_radius=20"/>
-<img height="168" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Neelkore25&layout=donut&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&border_radius=20"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&ring_color=60A5FA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelkore25&layout=donut&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Neelkore25&hide_border=true&background=0D1117&ring=1D4ED8&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B&border_radius=20"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelkore25&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelkore25&theme=react-dark&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&border_radius=20"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neelkore25&theme=react-dark&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
+**Contribution Snake**
+<br/><br/>
 <img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/output/snake-dark.svg"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Neelkore25&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10"/>
-
 </div>
 
 <br/>
 
-<h2 id="projects" align="center">
-<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-projects.svg"/></a>
-</h2>
+## Featured Projects
 
-### 🌐 Portfolio Website
-A responsive portfolio showcasing my projects, skills, and professional journey — built to feel fast, clean, and personal.
+<table align="center">
+<tr>
+<td width="600">
 
-<img src="https://skillicons.dev/icons?i=react,js,css&theme=dark" height="40"/>
+**Portfolio Website**
 
-**🔗 Live Demo:** [Neelkore25.github.io/Portfolio](https://Neelkore25.github.io/Portfolio/)
+A responsive personal portfolio showcasing my projects, skills, and professional journey — built to feel fast, clean, and personal.
+
+`React` `JavaScript` `CSS`
+
+[View Live →](https://Neelkore25.github.io/Portfolio/)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<h2 id="connect" align="center">
-<a href="#top"><img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/header-connect.svg"/></a>
-</h2>
+## Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/neel-kore-00567231b">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/social-linkedin.svg"/>
-</a>
-<a href="https://www.instagram.com/neel_kore">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/social-instagram.svg"/>
-</a>
-<a href="mailto:Neelkore25@gmail.com">
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/pills/social-gmail.svg"/>
-</a>
+<a href="https://www.linkedin.com/in/neel-kore-00567231b"><img src="https://cdn.simpleicons.org/linkedin/60A5FA" width="26" height="26"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/neel_kore"><img src="https://cdn.simpleicons.org/instagram/A78BFA" width="26" height="26"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:Neelkore25@gmail.com"><img src="https://cdn.simpleicons.org/gmail/22D3EE" width="26" height="26"/></a>
 
 </div>
 
@@ -145,8 +129,10 @@ A responsive portfolio showcasing my projects, skills, and professional journey 
 
 <div align="center">
 
----
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/divider.svg" width="340"/>
 
-**Thanks for stopping by!** ⭐
+<br/>
+
+<sub>Thanks for stopping by.</sub>
 
 </div>
