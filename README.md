@@ -1,16 +1,10 @@
 <div align="center">
 
-# Neel Kore
-
-<sub>Computer Engineering Student · MERN Stack · Cybersecurity · India</sub>
+<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/hero.svg" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=2200&duration=3800&color=60A5FA&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+applications;Strengthening+cybersecurity+%26+system+design+skills;Learning+in+public%2C+one+commit+at+a+time"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/divider.svg" width="340"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2400&duration=3200&color=8FA3C8&center=true&vCenter=true&width=640&lines=Shipping+MERN+projects%2C+one+commit+at+a+time;Thinking+in+systems%2C+securing+what+I+build;Currently+deep+in+DSA+%2B+networking+fundamentals"/>
 
 </div>
 
@@ -18,23 +12,25 @@
 
 ## About
 
-I'm a third-year Computer Engineering student based in India, focused on building clean, reliable software while developing a strong foundation in security and systems thinking. My day-to-day work centers on the **MERN stack**, alongside ongoing study of **Data Structures & Algorithms**, **Networking**, **Cybersecurity**, and **System Design**.
+I'm a Computer Engineering student in India who likes turning ideas into working software, then figuring out how to keep it safe. Most of my time goes into building with the **MERN stack**, sharpening my problem-solving through **DSA**, and studying the **networking and system-design** fundamentals that sit underneath every real product.
 
-**Goal:** build scalable full-stack applications while developing strong cybersecurity and system design skills.
+I picked up a security-first mindset during a research internship at **NPCIL**, where I worked on data backup strategy, disaster recovery, and enterprise infrastructure — and it's shaped how I think about building things ever since: not just "does it work," but "does it hold up."
 
-**Internship — NPCIL**
-Research internship with hands-on exposure to data backup strategies, disaster recovery management, cybersecurity fundamentals, and enterprise infrastructure.
+**Right now:** building full-stack projects end to end, going deeper on system design, and treating cybersecurity as a first-class part of development — not an afterthought.
 
 <br/>
 
-## Currently Focused On
+## Connect
 
-- Building full-stack projects end-to-end with the MERN stack
-- Solving DSA problems consistently to sharpen problem-solving
-- Going deeper into React internals and state management
-- Studying core networking concepts and protocols
-- Strengthening cybersecurity fundamentals
-- Writing simpler, more maintainable code
+<div align="center">
+
+<a href="mailto:Neelkore25@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/neel-kore-00567231b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/neel_kore"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/Neelkore25"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://Neelkore25.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D5DFC?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
 
 <br/>
 
@@ -42,25 +38,32 @@ Research internship with hands-on exposure to data backup strategies, disaster r
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **Languages**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=js,c,cpp,html,css&theme=dark&perline=5" height="48"/>
+<img src="https://skillicons.dev/icons?i=js,c,cpp&theme=dark&perline=3" height="46"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**Frameworks & Libraries**
+**Frontend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" height="48"/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3" height="46"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**Tools**
+**Backend & Database**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=3" height="46"/>
+
+</td>
+<td align="center" width="25%">
+
+**Tools & Platforms**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" height="46"/>
 
 </td>
 </tr>
@@ -68,24 +71,26 @@ Research internship with hands-on exposure to data backup strategies, disaster r
 
 <br/>
 
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&ring_color=60A5FA"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelkore25&layout=donut&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Neelkore25&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=8FB4FF&icon_color=A78BFA&text_color=B7C0D8&ring_color=8FB4FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelkore25&layout=donut&hide_border=true&bg_color=0A0E1A&title_color=8FB4FF&text_color=B7C0D8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelkore25&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neelkore25&theme=react-dark&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelkore25&hide_border=true&background=0A0E1A&ring=A78BFA&fire=8FB4FF&currStreakLabel=8FB4FF&sideLabels=B7C0D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
 
 <br/><br/>
 
-**Contribution Snake**
+<img src="https://img.shields.io/github/followers/Neelkore25?style=for-the-badge&logo=github&label=Followers&color=8FB4FF&labelColor=0A0E1A"/>
+<img src="https://img.shields.io/github/stars/Neelkore25?style=for-the-badge&logo=github&label=Stars&color=A78BFA&labelColor=0A0E1A"/>
+<img src="https://komarev.com/ghpvc/?username=Neelkore25&style=for-the-badge&label=Profile+Views&color=22D3EE&labelColor=0A0E1A"/>
+
+<br/><br/>
+
+<sub><strong>Contribution Snake</strong></sub>
 <br/><br/>
 <img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/output/snake-dark.svg"/>
 
@@ -97,15 +102,20 @@ Research internship with hands-on exposure to data backup strategies, disaster r
 
 <table align="center">
 <tr>
-<td width="600">
+<td width="640">
 
 **Portfolio Website**
+<br/>
+A responsive personal portfolio built to showcase my projects and skills — designed to feel fast, clean, and true to who I am as a developer.
 
-A responsive personal portfolio showcasing my projects, skills, and professional journey — built to feel fast, clean, and personal.
+<br/>
 
 `React` `JavaScript` `CSS`
 
-[View Live →](https://Neelkore25.github.io/Portfolio/)
+<br/>
+
+<a href="https://github.com/Neelkore25/Portfolio"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://Neelkore25.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Demo-8FB4FF?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -113,26 +123,12 @@ A responsive personal portfolio showcasing my projects, skills, and professional
 
 <br/>
 
-## Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/neel-kore-00567231b"><img src="https://cdn.simpleicons.org/linkedin/60A5FA" width="26" height="26"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/neel_kore"><img src="https://cdn.simpleicons.org/instagram/A78BFA" width="26" height="26"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:Neelkore25@gmail.com"><img src="https://cdn.simpleicons.org/gmail/22D3EE" width="26" height="26"/></a>
+━━━━━━━ ⋆⋅☆⋅⋆ ━━━━━━━
 
-</div>
+*Code is the closest thing we have to a superpower — build with it, secure it, and keep learning.*
 
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/main/assets/divider.svg" width="340"/>
-
-<br/>
-
-<sub>Thanks for stopping by.</sub>
+**Thanks for visiting ❤️**
 
 </div>
