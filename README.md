@@ -78,7 +78,11 @@ I'm a Computer Engineering student at **St. John College of Engineering and Mana
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neelkore25&theme=react-dark&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true"/>
+
+**Neel's Contribution Graph**
+<br/><br/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neelkore25&theme=react-dark&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true"/>
+
 </div>
 
 <br/>
@@ -95,11 +99,7 @@ I'm a Computer Engineering student at **St. John College of Engineering and Mana
 
 # Show Some Love
 
-If you enjoy my projects, consider giving them a ⭐. It really helps and motivates me to build more open-source software.
-
-If you'd like to support my work further, you can also buy me a coffee ☕
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/your-username)
+If you like what you see here, drop a ⭐ on my repos — it goes a long way in keeping me motivated to build more.
 <br /><br />
 
 # GitHub Stats and Views
@@ -113,6 +113,10 @@ If you'd like to support my work further, you can also buy me a coffee ☕
 
 </div>
 <br/>
+
+# Acknowledgements
+
+This README was inspired by [Satyam Pandey's GitHub Profile](https://github.com/SatyamPandey-07). Special thanks to him!
 
 ![footer banner](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 
