@@ -104,7 +104,10 @@ Currently learning and building projects with the **MERN Stack** while exploring
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Neelkore25&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-Learner-60A5FA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-3B82F6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DSA-Daily%20Practice-1D4ED8?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/NPCIL-Internship-60A5FA?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
