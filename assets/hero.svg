@@ -1,0 +1,77 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A13"/>
+      <stop offset="55%" stop-color="#0A0E1A"/>
+      <stop offset="100%" stop-color="#070A13"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="46%" r="55%">
+      <stop offset="0%" stop-color="#5B7CFA" stop-opacity="0.55"/>
+      <stop offset="38%" stop-color="#8B5CF6" stop-opacity="0.30"/>
+      <stop offset="70%" stop-color="#22D3EE" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#070A13" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#60A5FA" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="75%" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#93C5FD"/>
+      <stop offset="45%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#67E8F9"/>
+    </linearGradient>
+
+    <filter id="softBlur" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+
+    <filter id="wideBlur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="28" fill="url(#bgGrad)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="27" fill="none" stroke="#FFFFFF" stroke-opacity="0.06"/>
+
+  <ellipse cx="600" cy="168" rx="300" ry="190" fill="url(#glow)" filter="url(#wideBlur)"/>
+
+  <g fill="none" stroke="url(#ringGrad)" stroke-width="1">
+    <ellipse cx="600" cy="168" rx="340" ry="118" transform="rotate(-4 600 168)"/>
+    <ellipse cx="600" cy="168" rx="230" ry="168" transform="rotate(9 600 168)" stroke-opacity="0.7"/>
+  </g>
+
+  <g>
+    <circle cx="238" cy="96" r="2.4" fill="#67E8F9" opacity="0.8"/>
+    <circle cx="288" cy="150" r="1.6" fill="#93C5FD" opacity="0.6"/>
+    <circle cx="204" cy="188" r="1.8" fill="#A78BFA" opacity="0.55"/>
+    <circle cx="270" cy="238" r="2.1" fill="#60A5FA" opacity="0.7"/>
+    <circle cx="360" cy="80" r="1.5" fill="#C4B5FD" opacity="0.5"/>
+    <circle cx="962" cy="96" r="2.4" fill="#A78BFA" opacity="0.8"/>
+    <circle cx="912" cy="150" r="1.6" fill="#67E8F9" opacity="0.6"/>
+    <circle cx="996" cy="188" r="1.8" fill="#93C5FD" opacity="0.55"/>
+    <circle cx="930" cy="238" r="2.1" fill="#60A5FA" opacity="0.7"/>
+    <circle cx="840" cy="80" r="1.5" fill="#22D3EE" opacity="0.5"/>
+    <circle cx="600" cy="26" r="1.8" fill="#93C5FD" opacity="0.5"/>
+    <circle cx="600" cy="316" r="1.8" fill="#A78BFA" opacity="0.45"/>
+
+    <g stroke="#60A5FA" stroke-width="0.75" opacity="0.18">
+      <line x1="238" y1="96" x2="288" y2="150"/>
+      <line x1="288" y1="150" x2="270" y2="238"/>
+      <line x1="962" y1="96" x2="912" y2="150"/>
+      <line x1="912" y1="150" x2="930" y2="238"/>
+    </g>
+  </g>
+
+  <text x="600" y="192" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="82" letter-spacing="1" fill="url(#nameGrad)" opacity="0.55" filter="url(#softBlur)">Neel Kore</text>
+  <text x="600" y="192" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="82" letter-spacing="1" fill="url(#nameGrad)">Neel Kore</text>
+
+  <text x="600" y="240" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="500" font-size="21" letter-spacing="0.4" fill="#9AA4BC">Computer Engineering Student  |  MERN Stack Developer  |  Cybersecurity Enthusiast</text>
+
+  <line x1="500" y1="272" x2="700" y2="272" stroke="url(#ringGrad)" stroke-width="1"/>
+</svg>
