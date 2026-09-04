@@ -81,7 +81,7 @@ I'm a Computer Engineering student at **St. John College of Engineering and Mana
 
 **Neel's Contribution Graph**
 <br/><br/>
-<img width="100%" src="https://raw.githubusercontent.com/Neelkore25/Neelkore25/output/activity-graph.svg"/>
+<img width="90%" src="https://github-readme-activity-graph-two.vercel.app/graph?username=Neelkore25&theme=react-dark&bg_color=0D1117&color=60A5FA&line=A78BFA&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true"/>
 
 </div>
 
